@@ -1,5 +1,9 @@
 # Hi👋 My name is Turgunbaev Damir
+###Java Developer
+* You can conect me at [turgunbaev.damir95@gmail.com](mailto:turgunbaev.damir95@gmail.com)
 
+### My skills
+[![My Skills](https://skillicons.dev/icons?i=git,java,gradle,idea,postgres)](https://skillicons.dev)
 <!--
 **damirz95/damirz95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
